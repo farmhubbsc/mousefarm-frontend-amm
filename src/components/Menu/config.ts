@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://toad.farm/',
+    href: 'https://mouse.farm/',
   },
   {
     label: 'Trade',
@@ -12,23 +12,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.toad.farm/#/swap',
+        href: 'https://exchange.mouse.farm/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.toad.farm/#/pool',
+        href: 'https://exchange.mouse.farm/#/pool',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://toad.farm/farms',
+    href: 'https://mouse.farm/farms',
   },
   {
     label: 'Breeding Ground',
     icon: 'MoonIcon',
-    href: 'https://toad.farm/nests',
+    href: 'https://mouse.farm/nests',
   },
   // {
   //   label: 'Pools',
