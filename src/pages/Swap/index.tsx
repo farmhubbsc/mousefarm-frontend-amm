@@ -281,6 +281,10 @@ const Swap = () => {
     [onCurrencySelection, checkForSyrup]
   )
 
+  const shadow = {
+    boxShadow: '0 0 17px 4px rgba(0,0,0,0.4)'
+  }
+
   return (
     <>
       <TokenWarningModal
