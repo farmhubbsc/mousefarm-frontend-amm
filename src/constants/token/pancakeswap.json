@@ -19,6 +19,13 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x26a5dfab467d4f58fb266648cae769503cec9580.png"
     },
     {
+      "name": "Snek.Farm",
+      "symbol": "SNEK",
+      "address": "0x6e74C976E67Feae8E83635936Ef79F969e14E869",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "name": "TokenPocket",
       "symbol": "TPT",
       "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
