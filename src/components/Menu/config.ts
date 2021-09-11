@@ -50,9 +50,9 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Audit by Solidity',
+    label: 'presale',
     icon: 'AuditIcon',
-    href: 'https://solidity.finance/audits/Farmhub/',
+    href: 'https://google.com',
   },
 ]
 
