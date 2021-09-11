@@ -52,7 +52,7 @@ const config: MenuEntry[] = [
   {
     label: 'presale',
     icon: 'AuditIcon',
-    href: 'https://google.com',
+    href: 'https://www.google.com',
   },
 ]
 
