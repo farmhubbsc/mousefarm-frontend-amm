@@ -35,7 +35,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/farmhubbsc",
+        href: "https://github.com/farmhubbscs",
         icon: 'GithubIcon', 
       },
       {
