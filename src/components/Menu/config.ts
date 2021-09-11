@@ -45,7 +45,7 @@ const config: MenuEntry[] = [
       },
       // {
       //   label: "Blog",
-      //   href: "https://farmhub.medium.com/",
+      //   href: "https://farmhub.medium.comm/",
       // },
     ],
   },
