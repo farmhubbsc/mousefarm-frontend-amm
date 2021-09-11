@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://mouse.farm/',
+    href: 'https://mouse.farmhttps://clever-curie-0b05e8.netlify.app/#/swap/',
   },
   
   {
@@ -13,12 +13,12 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.mouse.farm/#/swap',
+        href: 'https://clever-curie-0b05e8.netlify.app/#/swap',
         icon: 'TradeIcon',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.mouse.farm/#/pool',
+        href: 'https://clever-curie-0b05e8.netlify.app/#/swap',
         icon: 'LiquidityIcon',
       },
     ],
@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://mouse.farm/farms',
+    href: 'https://clever-curie-0b05e8.netlify.app/#/swap',
   },
   
   {
