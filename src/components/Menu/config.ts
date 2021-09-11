@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://mouse.farmhttps://clever-curie-0b05e8.netlify.app/#/swap/',
+    href: 'https://clever-curie-0b05e8.netlify.app/#/swap/',
   },
   
   {
